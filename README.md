@@ -1,5 +1,5 @@
 # gitlab-docker
-Accelerate modern DevOps. Bring velocity with confidence, security without sacrifice, and visibility into DevOps success.
+[Accelerate modern DevOps](https://about.gitlab.com). Bring velocity with confidence, security without sacrifice, and visibility into DevOps success.
 
 ## Prerequisites
 Docker is required. [See the official installation documentation](https://docs.docker.com/install/).
